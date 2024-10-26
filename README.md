@@ -1,6 +1,6 @@
-# Welcome! My name is Nicholas.
-## I'm looking for post undergrad internships or permanent positions.
-### Check out my resume: [link](https://drive.google.com/file/d/16To6klIGv_8ghfu8vRi_H40cRCthsyt9/view?usp=sharing)
+# Welcome! My name is Nicholas :)
+I'm **looking** for post undergrad **internships** or **full-time** positions.
+Check out my resume: [link](https://drive.google.com/file/d/16To6klIGv_8ghfu8vRi_H40cRCthsyt9/view?usp=sharing)
 
 <!--
 **ngirmes/ngirmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
