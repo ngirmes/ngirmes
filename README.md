@@ -1,6 +1,5 @@
 # Welcome! My name is Nicholas.
 ## I'm looking for post undergrad internships or permanent positions.
----
 
 <!--
 **ngirmes/ngirmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
