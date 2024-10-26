@@ -23,10 +23,10 @@ A Serverless web application hosted on Azure, specifically focused on creating a
 
 Key Components:
 
-    - Azure Functions: Handles the serverless execution of your API endpoints, allowing for automatic scaling and cost efficiency.
+- Azure Functions: Handles the serverless execution of your API endpoints, allowing for automatic scaling and cost efficiency.
     
-    - Azure Cosmos DB: Serves as your NoSQL database to store user accounts, product details, and order information.
+- Azure Cosmos DB: Serves as your NoSQL database to store user accounts, product details, and order information.
     
-    - Infrastructure as Code: You will use Terraform to automate the deployment of your cloud resources.
+- Infrastructure as Code: You will use Terraform to automate the deployment of your cloud resources.
     
-    - CI/CD: Implemented using GitHub Actions to automate testing and deployment processes, ensuring smooth updates and version control.
+- CI/CD: Implemented using GitHub Actions to automate testing and deployment processes, ensuring smooth updates and version control.
