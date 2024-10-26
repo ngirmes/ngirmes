@@ -1,6 +1,8 @@
 # Welcome! My name is Nicholas :)
+![Me:](https://www.google.com/imgres?q=images&imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_640.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2F&docid=paFdfaKDdCMvfM&tbnid=m57Fdarda7KehM&vet=12ahUKEwiE6dCZ0qyJAxVdHUQIHcS1J0YQM3oECGYQAA..i&w=640&h=398&hcb=2&ved=2ahUKEwiE6dCZ0qyJAxVdHUQIHcS1J0YQM3oECGYQAA)
 I'm **looking** for post undergrad **internships** or **full-time** positions.
-Check out my resume: [link](https://drive.google.com/file/d/16To6klIGv_8ghfu8vRi_H40cRCthsyt9/view?usp=sharing)
+
+Check out my **resume**: [link](https://drive.google.com/file/d/16To6klIGv_8ghfu8vRi_H40cRCthsyt9/view?usp=sharing)
 
 <!--
 **ngirmes/ngirmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
