@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 Summary:
 A Serverless web application hosted on Azure, specifically focused on creating a RESTful API for an e-commerce platform. The API will facilitate various functionalities, such as user registration, product management, and order processing, leveraging Azure Functions for serverless execution.
 Key Components:
-
     - Azure Functions: Handles the serverless execution of your API endpoints, allowing for automatic scaling and cost efficiency.
     - Azure Cosmos DB: Serves as your NoSQL database to store user accounts, product details, and order information.
     - Infrastructure as Code: You will use Terraform to automate the deployment of your cloud resources.
