@@ -1,7 +1,7 @@
 # Welcome! My name is Nicholas :)
 ![Me:](file(1).jpg)
 
-I'm **looking** for post undergrad **internships** or **full-time** positions.
+I'm **looking** for post undergraduate **internships** or **full-time** positions.
 
 Check out my **resume**: [link](https://drive.google.com/file/d/16To6klIGv_8ghfu8vRi_H40cRCthsyt9/view?usp=sharing)
 
