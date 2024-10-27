@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Currently working on: Serverless API on Azure
+# Current Project: *Serverless API on Azure* - [Repository Link](https://github.com/ngirmes/cloud_project)
+
 Summary:
 
 A Serverless web application hosted on Azure, specifically focused on creating a RESTful API for an e-commerce platform. The API will facilitate various functionalities, such as user registration, product management, and order processing, leveraging Azure Functions for serverless execution.
