@@ -1,26 +1,20 @@
-# Welcome! My name is Nicholas :)
+# 👋 Hello! My name is Nicholas. ➡️ [**Resume Link**](https://drive.google.com/file/d/16To6klIGv_8ghfu8vRi_H40cRCthsyt9/view?usp=sharing) ⬅️
 ![Me:](file(1).jpg)
 
 I'm **looking** for post undergraduate **internships** or **full-time** positions.
 
-Check out my **resume**: [link](https://drive.google.com/file/d/16To6klIGv_8ghfu8vRi_H40cRCthsyt9/view?usp=sharing)
+**Contact** me at *n.girmes1998@gmail.com*
 
-<!--
-**ngirmes/ngirmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects and Goals:
 
-Here are some ideas to get you started:
+Goals:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Current Project: *Serverless API on Azure* - [Repository Link](https://github.com/ngirmes/cloud_project)
+- Receive my Microsoft Certified: Azure Administrator Associate certificate (In progress)
 
+Projects:
+
+1. *Serverless API on Azure* - [Repository Link](https://github.com/ngirmes/cloud_project)
+   
 Summary:
 
 A Serverless web application hosted on Azure, specifically focused on creating a RESTful API for an e-commerce platform. The API will facilitate various functionalities, such as user registration, product management, and order processing, leveraging Azure Functions for serverless execution.
