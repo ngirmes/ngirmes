@@ -5,13 +5,13 @@ I'm **looking** for post undergraduate **internships** or **full-time** position
 
 **Contact** me at *n.girmes1998@gmail.com*
 
-## Current Projects and Goals:
+## Current Goals and Projects:
 
-Goals:
+### Goals:
 
 - Receive my Microsoft Certified: Azure Administrator Associate certificate (In progress)
 
-Projects:
+### Projects:
 
 1. *Serverless API on Azure* - [Repository Link](https://github.com/ngirmes/cloud_project)
    
