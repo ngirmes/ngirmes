@@ -1,7 +1,7 @@
 # 👋 Hello! My name is Nicholas. ➡️ [**Resume Link**](https://drive.google.com/file/d/16To6klIGv_8ghfu8vRi_H40cRCthsyt9/view?usp=sharing) ⬅️
 ![Me:](file(1).jpg)
 
-I'm **looking** for post undergraduate **internships** or **full-time** positions.
+I'm **looking** for new graduate **internships** or **full-time** positions.
 
 **Contact** me at *n.girmes1998@gmail.com*
 
