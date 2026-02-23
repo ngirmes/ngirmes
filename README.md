@@ -8,9 +8,8 @@ I'm **looking** for new graduate **internships**, **part-time**, or **full-time*
 ## Current Projects:
 
 1. *Full Stack Job Tracker* - [Repository Link](https://github.com/ngirmes/job_tracker)
-2. *Front-end React Website - [Repository Link](https://github.com/ngirmes/apexeai)
-   
-Summary:
+   * A full-stack CRUD web application for tracking job applications with multi-user support, secure authentication, and email verification. Built to demonstrate industry-standard backend and frontend practices.
+2. *Front-end React Website* - [Repository Link](https://github.com/ngirmes/apexeai)
+   * A front-end REACT website built for APEX EAI, an environmental remediation and AI solutions company.
 
-A full-stack CRUD web application for tracking job applications with multi-user support, secure authentication, and email verification. Built to demonstrate industry-standard backend and frontend practices.
 
