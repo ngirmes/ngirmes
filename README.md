@@ -13,18 +13,9 @@ I'm **looking** for new graduate **internships** or **full-time** positions.
 
 ### Projects:
 
-1. *Serverless API on Azure* - [Repository Link](https://github.com/ngirmes/cloud_project)
+1. *Full Stack Job Tracker* - [Repository Link](https://github.com/ngirmes/job_tracker)
    
 Summary:
 
-A Serverless web application hosted on Azure, specifically focused on creating a RESTful API for an e-commerce platform. The API will facilitate various functionalities, such as user registration, product management, and order processing, leveraging Azure Functions for serverless execution.
+A full-stack CRUD web application for tracking job applications with multi-user support, secure authentication, and email verification. Built to demonstrate industry-standard backend and frontend practices.
 
-Key Components:
-
-- Azure Functions: Handles the serverless execution of your API endpoints, allowing for automatic scaling and cost efficiency.
-    
-- Azure Cosmos DB: Serves as your NoSQL database to store user accounts, product details, and order information.
-    
-- Infrastructure as Code: You will use Terraform to automate the deployment of your cloud resources.
-    
-- CI/CD: Implemented using GitHub Actions to automate testing and deployment processes, ensuring smooth updates and version control.
