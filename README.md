@@ -8,6 +8,7 @@ I'm **looking** for new graduate **internships**, **part-time**, or **full-time*
 ## Current Projects:
 
 1. *Full Stack Job Tracker* - [Repository Link](https://github.com/ngirmes/job_tracker)
+2. *Front-end React Website - [Repository Link](https://github.com/ngirmes/apexeai)
    
 Summary:
 
