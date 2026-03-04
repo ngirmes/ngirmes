@@ -1,7 +1,7 @@
-# 👋 Hello! My name is Nicholas. ➡️ [**Resume Link**](https://drive.google.com/file/d/16To6klIGv_8ghfu8vRi_H40cRCthsyt9/view?usp=sharing) ⬅️
+# 👋 Hello! My name is Nicholas. ➡️ [**Resume Link**](https://docs.google.com/document/d/1VSStqHFWlfW-6B3hg1DXUdzkR4bupxD13cYfUX2usx4/edit?usp=sharing) ⬅️
 ![Me:](file(1).jpg)
 
-I'm **looking** for new graduate **internships**, **part-time**, or **full-time** software developer positions. I'm based in Corona, California and open to remote work or relocation.
+I'm **looking** for **internships**, **part-time**, or **full-time** software developer positions. I'm based in Corona, California and open to remote work or relocation.
 
 **Contact** me at *n.girmes1998@gmail.com*
 
