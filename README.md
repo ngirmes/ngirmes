@@ -1,4 +1,4 @@
-# 👋 Hello! My name is Nicholas. ➡️ [**Resume Link**]([https://docs.google.com/document/d/1VSStqHFWlfW-6B3hg1DXUdzkR4bupxD13cYfUX2usx4/edit?usp=sharing](https://drive.google.com/file/d/1pEaZKJkBp0skrfp_iMyhu0UrB1EvMxkU/view?usp=drive_link)) ⬅️
+# 👋 Hello! My name is Nicholas. ➡️ [**Resume Link**](https://drive.google.com/file/d/1pEaZKJkBp0skrfp_iMyhu0UrB1EvMxkU/view?usp=drive_link) ⬅️
 ![Me:](file(1).jpg)
 
 I'm **looking** for **internships**, **part-time**, or **full-time** software developer positions. I'm based in Corona, California and open to remote work or relocation.
