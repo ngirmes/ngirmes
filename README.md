@@ -1,5 +1,5 @@
 # 👋 Hello! My name is Nicholas. ➡️ [**Resume Link**](https://drive.google.com/file/d/1d-qawi-jLHLzruLlkrT2_f2mBNN-_Sif/view?usp=sharing) ⬅️
-![Me:](best.jpeg)
+<img src="best.jpeg" width="300" height="300">
 
 I'm **looking** for **internships**, **part-time**, or **full-time** software developer positions. I'm based in Corona, California and open to remote work or relocation.
 
